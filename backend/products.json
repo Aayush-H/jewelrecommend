@@ -1,0 +1,337 @@
+[{
+  "_id": {
+    "$oid": "68bbd919eaff6f837235d56a"
+  },
+  "name": "Royal Kundan Necklace Set",
+  "description": "Exquisite kundan necklace with matching earrings, perfect for weddings",
+  "category": "set",
+  "subcategory": "kundan-set",
+  "price": 25000,
+  "designer": {
+    "$oid": "68bbd919eaff6f837235d566"
+  },
+  "materials": [
+    "gold",
+    "kundan",
+    "pearl"
+  ],
+  "colors": [
+    "gold",
+    "red",
+    "white"
+  ],
+  "style": "traditional",
+  "occasions": [
+    "wedding",
+    "festival"
+  ],
+  "weight": 45,
+  "inStock": true,
+  "tags": [
+    "kundan",
+    "bridal",
+    "heavy",
+    "traditional"
+  ],
+  "images": [],
+  "createdAt": {
+    "$date": "2025-09-06T06:47:53.859Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-06T06:47:53.859Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bbd919eaff6f837235d56d"
+  },
+  "name": "Diamond Solitaire Ring",
+  "description": "Classic diamond solitaire ring in white gold setting",
+  "category": "ring",
+  "subcategory": "solitaire",
+  "price": 45000,
+  "designer": {
+    "$oid": "68bbd919eaff6f837235d568"
+  },
+  "materials": [
+    "white-gold",
+    "diamond"
+  ],
+  "colors": [
+    "silver",
+    "white"
+  ],
+  "style": "modern",
+  "occasions": [
+    "daily",
+    "office",
+    "party"
+  ],
+  "weight": 3,
+  "inStock": true,
+  "tags": [
+    "diamond",
+    "solitaire",
+    "engagement",
+    "modern"
+  ],
+  "images": [],
+  "createdAt": {
+    "$date": "2025-09-06T06:47:53.928Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-06T06:47:53.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bbd919eaff6f837235d570"
+  },
+  "name": "Pearl Drop Earrings",
+  "description": "Elegant pearl drop earrings with gold accents",
+  "category": "earrings",
+  "subcategory": "drop-earrings",
+  "price": 8000,
+  "designer": {
+    "$oid": "68bbd919eaff6f837235d566"
+  },
+  "materials": [
+    "gold",
+    "pearl"
+  ],
+  "colors": [
+    "gold",
+    "white"
+  ],
+  "style": "fusion",
+  "occasions": [
+    "office",
+    "party",
+    "daily"
+  ],
+  "weight": 8,
+  "inStock": true,
+  "tags": [
+    "pearl",
+    "elegant",
+    "office-wear",
+    "fusion"
+  ],
+  "images": [],
+  "createdAt": {
+    "$date": "2025-09-06T06:47:53.985Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-06T06:47:53.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bbd91aeaff6f837235d573"
+  },
+  "name": "Silver Oxidized Bangles",
+  "description": "Set of 4 oxidized silver bangles with traditional motifs",
+  "category": "bracelet",
+  "subcategory": "bangles",
+  "price": 3500,
+  "designer": {
+    "$oid": "68bbd919eaff6f837235d568"
+  },
+  "materials": [
+    "silver"
+  ],
+  "colors": [
+    "silver",
+    "black"
+  ],
+  "style": "traditional",
+  "occasions": [
+    "daily",
+    "festival"
+  ],
+  "weight": 60,
+  "inStock": true,
+  "tags": [
+    "silver",
+    "oxidized",
+    "traditional",
+    "affordable"
+  ],
+  "images": [],
+  "createdAt": {
+    "$date": "2025-09-06T06:47:54.050Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-06T06:47:54.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bbd91aeaff6f837235d576"
+  },
+  "name": "Rose Gold Chain Bracelet",
+  "description": "Delicate rose gold chain bracelet for everyday wear",
+  "category": "bracelet",
+  "subcategory": "chain-bracelet",
+  "price": 12000,
+  "designer": {
+    "$oid": "68bbd919eaff6f837235d566"
+  },
+  "materials": [
+    "rose-gold"
+  ],
+  "colors": [
+    "rose-gold",
+    "pink"
+  ],
+  "style": "minimalist",
+  "occasions": [
+    "daily",
+    "office"
+  ],
+  "weight": 5,
+  "inStock": true,
+  "tags": [
+    "rose-gold",
+    "minimalist",
+    "daily-wear",
+    "delicate"
+  ],
+  "images": [],
+  "createdAt": {
+    "$date": "2025-09-06T06:47:54.106Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-06T06:47:54.106Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bbd91aeaff6f837235d579"
+  },
+  "name": "Temple Jewelry Necklace",
+  "description": "Traditional South Indian temple jewelry necklace",
+  "category": "necklace",
+  "subcategory": "temple-jewelry",
+  "price": 18000,
+  "designer": {
+    "$oid": "68bbd919eaff6f837235d568"
+  },
+  "materials": [
+    "gold",
+    "ruby",
+    "emerald"
+  ],
+  "colors": [
+    "gold",
+    "red",
+    "green"
+  ],
+  "style": "traditional",
+  "occasions": [
+    "wedding",
+    "festival"
+  ],
+  "weight": 35,
+  "inStock": true,
+  "tags": [
+    "temple",
+    "south-indian",
+    "traditional",
+    "heavy"
+  ],
+  "images": [],
+  "createdAt": {
+    "$date": "2025-09-06T06:47:54.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-06T06:47:54.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bbd91aeaff6f837235d57c"
+  },
+  "name": "Geometric Stud Earrings",
+  "description": "Modern geometric stud earrings in sterling silver",
+  "category": "earrings",
+  "subcategory": "studs",
+  "price": 2500,
+  "designer": {
+    "$oid": "68bbd919eaff6f837235d566"
+  },
+  "materials": [
+    "silver"
+  ],
+  "colors": [
+    "silver"
+  ],
+  "style": "modern",
+  "occasions": [
+    "daily",
+    "office"
+  ],
+  "weight": 3,
+  "inStock": true,
+  "tags": [
+    "geometric",
+    "modern",
+    "studs",
+    "affordable"
+  ],
+  "images": [],
+  "createdAt": {
+    "$date": "2025-09-06T06:47:54.218Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-06T06:47:54.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bbd91aeaff6f837235d57f"
+  },
+  "name": "Antique Gold Choker",
+  "description": "Vintage-inspired antique gold choker necklace",
+  "category": "necklace",
+  "subcategory": "choker",
+  "price": 22000,
+  "designer": {
+    "$oid": "68bbd919eaff6f837235d568"
+  },
+  "materials": [
+    "antique-gold"
+  ],
+  "colors": [
+    "gold",
+    "brown"
+  ],
+  "style": "fusion",
+  "occasions": [
+    "party",
+    "wedding"
+  ],
+  "weight": 25,
+  "inStock": true,
+  "tags": [
+    "antique",
+    "choker",
+    "vintage",
+    "fusion"
+  ],
+  "images": [],
+  "createdAt": {
+    "$date": "2025-09-06T06:47:54.277Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-06T06:47:54.277Z"
+  },
+  "__v": 0
+}]

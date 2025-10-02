@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "68bbd919eaff6f837235d566"
+  },
+  "name": "Priya Sharma",
+  "email": "priya@goldencrafts.com",
+  "password": "$2a$12$vrG5x04LyGBPI5mhRfI1jOcFP4kDn0DcC8dyrnV7WAeDS.Y95YV9e",
+  "businessName": "Golden Crafts",
+  "description": "Traditional Indian jewelry with modern touch",
+  "location": {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India"
+  },
+  "contact": {
+    "phone": "+91-9876543210",
+    "instagram": "@goldencrafts"
+  },
+  "specialties": [
+    "traditional",
+    "bridal"
+  ],
+  "verified": true,
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "products": [
+    {
+      "$oid": "68bbd919eaff6f837235d56a"
+    },
+    {
+      "$oid": "68bbd919eaff6f837235d570"
+    },
+    {
+      "$oid": "68bbd91aeaff6f837235d576"
+    },
+    {
+      "$oid": "68bbd91aeaff6f837235d57c"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-06T06:47:53.352Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-06T06:47:54.247Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bbd919eaff6f837235d568"
+  },
+  "name": "Arjun Patel",
+  "email": "arjun@modernjewels.com",
+  "password": "$2a$12$ZuEzInBij85Td35N8EMo/.x1s2o43CZeFNj41Z6t6rv2zusS9f/Uq",
+  "businessName": "Modern Jewels",
+  "description": "Contemporary and minimalist jewelry designs",
+  "location": {
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India"
+  },
+  "contact": {
+    "phone": "+91-9876543211",
+    "instagram": "@modernjewels"
+  },
+  "specialties": [
+    "modern",
+    "minimalist"
+  ],
+  "verified": true,
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "products": [
+    {
+      "$oid": "68bbd919eaff6f837235d56d"
+    },
+    {
+      "$oid": "68bbd91aeaff6f837235d573"
+    },
+    {
+      "$oid": "68bbd91aeaff6f837235d579"
+    },
+    {
+      "$oid": "68bbd91aeaff6f837235d57f"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-09-06T06:47:53.826Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-06T06:47:54.305Z"
+  },
+  "__v": 0
+}]
